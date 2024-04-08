@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/xu/Desktop/Github/mnn-llm/android/app/.cxx/RelWithDebInfo/3h413h63/arm64-v8a",
+  "command": "C:\\Users\\xu\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSING_DISK_EMBED -Dllm_mnn_EXPORTS -IC:/Users/xu/Desktop/Github/mnn-llm/android/app/src/main/jni/../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -o CMakeFiles\\llm_mnn.dir\\llm_mnn_jni.cpp.o -c C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\android\\app\\src\\main\\jni\\llm_mnn_jni.cpp",
+  "file": "C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\android\\app\\src\\main\\jni\\llm_mnn_jni.cpp"
+},
+
+{
+  "directory": "C:/Users/xu/Desktop/Github/mnn-llm/android/app/.cxx/RelWithDebInfo/3h413h63/arm64-v8a",
+  "command": "C:\\Users\\xu\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSING_DISK_EMBED -Dllm_mnn_EXPORTS -IC:/Users/xu/Desktop/Github/mnn-llm/android/app/src/main/jni/../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -o CMakeFiles\\llm_mnn.dir\\C_\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\llm.cpp.o -c C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\llm.cpp",
+  "file": "C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\llm.cpp"
+},
+
+{
+  "directory": "C:/Users/xu/Desktop/Github/mnn-llm/android/app/.cxx/RelWithDebInfo/3h413h63/arm64-v8a",
+  "command": "C:\\Users\\xu\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/xu/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DUSING_DISK_EMBED -Dllm_mnn_EXPORTS -IC:/Users/xu/Desktop/Github/mnn-llm/android/app/src/main/jni/../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -o CMakeFiles\\llm_mnn.dir\\C_\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\tokenizer.cpp.o -c C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\tokenizer.cpp",
+  "file": "C:\\Users\\xu\\Desktop\\Github\\mnn-llm\\src\\tokenizer.cpp"
+}
+]

@@ -1,0 +1,1 @@
+C:\Users\xu\Desktop\Github\mnn-llm\android\app\src\main\jni\CMakeLists.txt
